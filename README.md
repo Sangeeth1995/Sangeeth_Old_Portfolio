@@ -1,4 +1,3 @@
-# Sangeeth_Portfolio
-Digital portfolio or E-portfolio
+# Sangeeth_Old_Portfolio
 
-Portfolio of my journey, achievements and dreams.
+This is an old portfoli work, I made during my Bachelor's course back in 2017
